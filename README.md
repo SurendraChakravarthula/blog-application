@@ -26,5 +26,5 @@ The Blog Post Application is a web-based platform that allows users to create, v
 
 ## Deployment
 
-The application has been deployed and is accessible at [Blog Application](blogapplication-production.up.railway.app).
+The application has been deployed and is accessible at [Blog Application](https://blogapplication-production.up.railway.app).
 
