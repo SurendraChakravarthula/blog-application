@@ -24,3 +24,7 @@ The Blog Post Application is a web-based platform that allows users to create, v
 * PostgreSQL
 * HTML/CSS
 
+## Deployment
+
+The application has been deployed and is accessible at [Blog Application](blogapplication-production.up.railway.app).
+
